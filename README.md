@@ -1,8 +1,7 @@
 <h1>  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px">Hola!, I am <a  href="http://code.victorpiella.com">Víctor</a>  <img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="30px"></h1>
 
-
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/VictorPiella/)](https://github.com/VictorPiella/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorpiella/)](https://www.linkedin.com/in/victorpiella)
 [![mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@victorpiella.com)](mailto:info@victorpiella.com)
 
@@ -24,31 +23,19 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-  
-
-## ⚡️ A Few Quick Facts
-
-  
+## ⚡️ A Few Quick Facts 
 
 - 👨🏽‍💻 I’m currently working on something cool  😉;
-
-- 🌱 I’m currently learning Java <img  src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png"  width="30">
-
-<img  width="490"  height="270"  src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif"  align=right>
-
-  
-
--  <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> I enjoy working on
-
-- 📊 Machine Learning & Data Science
--- 🖼 Computer Vision
--- 🛠 DIY Raspberry Pi Projects
--- 🤖 Robotics
+- 🌱 I’m currently learning React
+<img  width="490"  height="270"  src="https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif"  align=right>
+-<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> I enjoy working on
+ - 📊 Growing projets
+ - 🖼 Personal Projects
+ - 🛠 DIY Raspberry Pi Projects
+ - 🤖 Automate processes
 - 🤔 I can succesfully center an element with css
 - 💬 Ask me about anything, I am happy to help
-- 📙 Check out my [Resume](https://github.com/Defcon27/Defcon27/blob/master/Hemanth%20Kollipara.pdf)
-
-
+- 📙 Check out my [Resume](http://cv.victorpiella.com/VictorPiella.pdf)
   
 <details>
 
@@ -71,7 +58,7 @@
 
 </p>
 </details>
-
+</details>
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
