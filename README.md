@@ -24,11 +24,11 @@
 </p>
 
 ## ⚡️ A Few Quick Facts 
+<img  width="490"  height="270"  src="https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif"  align=right>
 
 - 👨🏽‍💻 I’m currently working on something cool  😉;
 - 🌱 I’m currently learning React
-<img  width="490"  height="270"  src="https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif"  align=right>
--<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> I enjoy working on
+- <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> I enjoy working on
  - 📊 Growing projets
  - 🖼 Personal Projects
  - 🛠 DIY Raspberry Pi Projects
