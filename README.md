@@ -5,7 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorpiella/)](https://www.linkedin.com/in/victorpiella)
 [![mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@victorpiella.com)](mailto:info@victorpiella.com)
 
-  <p>I'm a **Front end Web 💻 😃** from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="13"/> <b>Barcelona, Spain</b> passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/>
+I'm a Front end Web* 💻 😃 from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="13"/> *Barcelona, Spain* passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 
+
+<br/>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -28,7 +30,7 @@
 
 - 👨🏽‍💻 I’m currently working on something cool  😉;
 - 🌱 I’m currently learning React
-- <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> I enjoy working on
+- I enjoy working on:
  - 📊 Growing projets
  - 🖼 Personal Projects
  - 🛠 DIY Raspberry Pi Projects
