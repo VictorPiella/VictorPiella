@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorpiella/)](https://www.linkedin.com/in/victorpiella)
 [![mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@victorpiella.com)](mailto:info@victorpiella.com)
 
-I'm a Front end Web* 💻 😃 from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="13"/> *Barcelona, Spain* passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 
+I'm a **Front end Web** 💻 😃 from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="13"/> **Barcelona, Spain** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 
 
 <br/>
 <p>
